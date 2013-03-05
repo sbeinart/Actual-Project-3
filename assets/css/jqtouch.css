@@ -1380,6 +1380,13 @@ body {
   overflow: visible;
   padding-left: 5px;
 }
+#jqt .back2 {
+  max-width: 60px;
+  margin-left: 85px;
+  overflow: visible;
+  padding-left: 5px;
+}
+
 /* line 121, ../scss/include/_skeleton.scss */
 #jqt .back:after, #jqt .back:before {
   content: '';
